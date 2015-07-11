@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "crc": "^2.1.1",
-    "noble": "^0.3.1",
-    "noble-device": "^0.1.0"
+    "noble": "sandeepmistry/noble",
+    "noble-device": "sandeepmistry/noble-device"
   },
   "devDependencies": {
     "chai": "^1.10.0",
